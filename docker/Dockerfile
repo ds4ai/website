@@ -13,7 +13,7 @@ FROM Source as Build
 
 RUN git clone --depth=1 https://github.com/ds4ai/website /git
 WORKDIR /git/website
-RUN make build
+RUN make all
 
 FROM jolielang/leonardo
 ENV LEONARDO_WWW /web
