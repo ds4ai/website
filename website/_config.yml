@@ -30,3 +30,9 @@ navigation_header:
   Join the Community: /join
   Members: /members
   Board: /board
+
+navigation_header_alt:
+  Forside: /dk
+  Deltag i Samfundet: /join/dk
+  Medlemmer: /members/dk
+  Bestyrelse: /board/dk

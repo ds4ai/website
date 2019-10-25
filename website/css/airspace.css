@@ -63,11 +63,19 @@ a:active {
 	Header Start
 --*/
 header {
-  background: #fff;
   padding: 20px 0;
   margin-bottom: 25px;
-  margin-top: 12px;
 }
+
+header .container {
+  background: #f3f3f3;
+  padding-bottom: 1.5em;
+  padding-top: 0.5em;
+  border-top-right-radius: 1em;
+  border-top-left-radius: 1em;
+  border-bottom: 3px solid #d3212f;
+}
+
 header .navbar {
   margin-bottom: 0px;
   border: 0px;
@@ -775,8 +783,17 @@ footer {
   text-align: center;
   padding-top: 16px;
   padding-bottom: 15px;
-  border-top: 1px solid lightgray;
 }
+
+footer .container {
+  background: #f3f3f3;
+  padding-bottom: 1.5em;
+  padding-top: 0.5em;
+  border-bottom-right-radius: 1em;
+  border-bottom-left-radius: 1em;
+  border-top: 3px solid #d3212f;
+}
+
 footer p {
   font-size: 13px;
   line-height: 25px;
@@ -828,3 +845,14 @@ footer .footer-manu ul li a:hover {
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;}
+
+.alternate {
+  float: right!important;
+  margin-bottom: -22px;
+  margin-right: -20px;
+  border: 3px solid #d3212f;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 2px;
+  border-bottom: none;
+}

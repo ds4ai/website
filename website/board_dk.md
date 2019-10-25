@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: page_alt
 title: Board
-permalink: /board/
+permalink: /board/dk
 ---
 
 <section>
@@ -9,23 +9,22 @@ permalink: /board/
 <div class="row">
 <div class="col-xs-12">
 <div class="section-title" markdown="1">
-<h2 class="ptb">Board</h2>
+<h2 class="ptb">Bestyrelse</h2>
 </div>
 <div class="media text-center">
-<div class="text-center">
+<div>
 
 <style>
   .ptb { margin-bottom:100px; }
 </style>
 
-<div class="text-center">
 <h4>Founders</h4>
 <table class="table text-left ptb">
   <thead>
     <tr>
-      <th scope="col">Member</th>
-      <th scope="col">Affiliation</th>
-      <th scope="col">Position</th>
+      <th scope="col">Medlem</th>
+      <th scope="col">Tilknytning</th>
+      <th scope="col">Holdning</th>
     </tr>
   </thead>
   <tbody>
@@ -33,18 +32,17 @@ permalink: /board/
     </tr>
     <tr>
       <td>Jacopo Mauro</td>
-      <td>Department of Mathematics and Computer Science, University of Southern Denmark, DK</td>
-      <td>Associate Professor</td>
+      <td>Institut for Matematik og Datalogi, Syddansk Universitet, DK</td>
+      <td>Lektor</td>
     </tr>
     <tr>
       <td>Peter Schneider-Kamp</td>
-      <td>Department of Mathematics and Computer Science, University of Southern Denmark, DK</td>
-      <td>Full Professor</td>
+      <td>Institut for Matematik og Datalogi, Syddansk Universitet, DK</td>
+      <td>Professor</td>
     </tr>
   </tbody>
 </table>
 
-</div>
 </div>
 </div>
 </div>
