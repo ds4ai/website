@@ -14,8 +14,8 @@ keep_files:
   
 # Site settings
 title: Danish Society for Artificial Intelligence
-url: "https://mauro1.sdu.dk" # the base hostname & protocol for your site
-baseurl: "/dsai"
+url: "https://dsai.sdu.dk" # the base hostname & protocol for your site
+baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
