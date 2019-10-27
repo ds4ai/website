@@ -13,9 +13,8 @@ permalink: /dk
       <div class="col-xs-12">
 <div class="block">
 <div markdown="1">
-
-Dansk Samfund for er et samfund af eksperter og fagfolk, der er interesseret i kunstig intelligens: forskning, udvikling og anvendelse.
-
+<div class="col-xs-4"><img class="img-responsive" src="/assets/images/logo.png"></div>
+<div class="col-xs-8">Dansk Samfund for Artificial Intelligence er et samfund af eksperter og fagfolk, der er interesseret i kunstig intelligens: forskning, udvikling og anvendelse.</div>
 </div>
 </div>
 </div>
