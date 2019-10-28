@@ -16,5 +16,7 @@ WORKDIR /git/website
 RUN make all
 
 FROM jolielang/leonardo
+
+EXPOSE 8080
 ENV LEONARDO_WWW /web
 COPY --from=Build /git/website/_site $LEONARDO_WWW
