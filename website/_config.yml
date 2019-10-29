@@ -14,6 +14,7 @@ keep_files:
   
 # Site settings
 title: Danish Society for Artificial Intelligence
+title_alt : Dansk Selskab for Kunstig Intelligens
 url: "https://dsai.sdu.dk" # the base hostname & protocol for your site
 baseurl: ""
 cover: "/assets/cover.png"
@@ -24,6 +25,8 @@ markdown: kramdown
 
 plugins:
   - jekyll-redirect-from
+
+
 
 navigation_header:
   Home: /

@@ -1,6 +1,6 @@
 ---
 layout: page_alt
-title: Deltag i Samfundet
+title: Deltag i Selskab
 permalink: /join/dk
 ---
 
@@ -13,7 +13,7 @@ permalink: /join/dk
 ## Bliv medlem
 </div>
 
-Slut dig til innovatører, fagfolk og eksperter i et af de største danske samfund omkring Artificial Intelligence.
+Slut dig til innovatører, fagfolk og eksperter i et af de største danske selskab omkring Kunstig Intelligens.
 
 </div>
 </div>

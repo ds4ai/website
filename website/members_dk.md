@@ -1,6 +1,6 @@
 ---
 layout: page_alt
-title: medlemmer
+title: Medlemmer
 permalink: members/dk
 ---
 
@@ -9,7 +9,7 @@ permalink: members/dk
 <div class="row">
 <div class="col-xs-12" markdown="1">
 <div class="section-title" markdown="1">
-## Medlemmer af det Danske Selskab for Artificial Intelligence
+## Medlemmer af det {{ site.title_alt }}
 </div>
 </div>
 
