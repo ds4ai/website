@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Statutes
-permalink: /statutes
+permalink: /statutes/
 ---
 
 <section style="margin-bottom:50px;">
