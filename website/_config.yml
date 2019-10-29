@@ -26,16 +26,16 @@ markdown: kramdown
 plugins:
   - jekyll-redirect-from
 
-
-
 navigation_header:
   Home: /
   Join the Community: /join
   Members: /members
   Board: /board
+  Statutes: /statutes
 
 navigation_header_alt:
   Forside: /dk.html
-  Deltag i Samfundet: /join/dk.html
+  Deltag i Selskab: /join/dk.html
   Medlemmer: /members/dk.html
   Bestyrelse: /board/dk.html
+  Statutes: /statutes/dk.html
