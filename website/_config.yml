@@ -32,7 +32,7 @@ navigation_header:
   Board: /board
 
 navigation_header_alt:
-  Forside: /dk
-  Deltag i Samfundet: /join/dk
-  Medlemmer: /members/dk
-  Bestyrelse: /board/dk
+  Forside: /dk.html
+  Deltag i Samfundet: /join/dk.html
+  Medlemmer: /members/dk.html
+  Bestyrelse: /board/dk.html
